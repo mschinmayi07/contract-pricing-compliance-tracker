@@ -4,7 +4,7 @@
 
 Private pricing contracts are manually billed according to negotiated discount terms. If the applied discount deviates from the contracted rate, or if invoices are issued against expired or non-existent contracts, it can lead to revenue leakage or customer overcharging. These discrepancies often go undetected without a systematic reconciliation of every invoice against the contract master.
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ## What this workbook does
 
