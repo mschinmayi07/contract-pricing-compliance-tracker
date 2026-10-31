@@ -1,0 +1,35 @@
+Contract_ID,Customer_ID,Customer_Name,Region,Service_Category,Agreed_Discount_Pct,Contract_Start,Contract_End,Min_Commit_USD,Contract_Status
+CT-5001,C1001,Northwind Logistics,AMER,Analytics,0.125,2025-04-21,2026-10-21,100000,Active
+CT-5002,C1001,Northwind Logistics,AMER,Machine Learning,0.1,2025-06-08,2026-12-08,50000,Active
+CT-5003,C1002,Contoso Health,AMER,Compute,0.25,2024-11-06,2025-11-06,50000,Expired
+CT-5004,C1002,Contoso Health,AMER,Machine Learning,0.1,2025-02-09,2026-08-11,1000000,Expired
+CT-5005,C1003,Fabrikam Media,EMEA,Compute,0.125,2024-03-05,2025-03-05,100000,Expired
+CT-5006,C1004,Tailspin Aerospace,AMER,Database,0.225,2024-01-31,2025-08-01,1000000,Active
+CT-5007,C1004,Tailspin Aerospace,AMER,Storage,0.15,2024-07-19,2026-07-19,500000,Active
+CT-5008,C1004,Tailspin Aerospace,AMER,Compute,0.225,2024-01-05,2026-01-04,250000,Active
+CT-5009,C1005,Adventure Works,APAC,Database,0.175,2024-03-26,2026-03-26,100000,Active
+CT-5010,C1005,Adventure Works,APAC,Compute,0.075,2025-06-09,2026-12-09,1000000,Expired
+CT-5011,C1006,Litware Financial,EMEA,Security,0.15,2025-02-14,2026-02-14,500000,Active
+CT-5012,C1007,Proseware Retail,AMER,Compute,0.125,2024-01-18,2026-01-17,100000,Expired
+CT-5013,C1008,Wingtip Energy,APAC,Machine Learning,0.2,2025-04-26,2026-10-26,500000,Active
+CT-5014,C1009,Blue Yonder Air,EMEA,Database,0.175,2024-07-22,2026-07-22,50000,Active
+CT-5015,C1010,Coho Vineyard,AMER,Networking,0.075,2024-12-06,2025-12-06,100000,Active
+CT-5016,C1010,Coho Vineyard,AMER,Compute,0.05,2024-09-09,2026-09-09,50000,Active
+CT-5017,C1011,Alpine Ski House,EMEA,Machine Learning,0.25,2025-05-13,2026-05-13,100000,Expired
+CT-5018,C1011,Alpine Ski House,EMEA,Storage,0.1,2025-04-03,2027-04-03,500000,Active
+CT-5019,C1012,Trey Research,AMER,Networking,0.125,2024-04-29,2025-10-29,50000,Expired
+CT-5020,C1012,Trey Research,AMER,Database,0.05,2024-10-03,2026-10-03,100000,Active
+CT-5021,C1013,Woodgrove Bank,AMER,Machine Learning,0.075,2025-02-07,2027-02-07,50000,Active
+CT-5022,C1014,Margie Travel,APAC,Database,0.05,2024-08-06,2026-02-05,1000000,Active
+CT-5023,C1015,Lucerne Publishing,EMEA,Compute,0.075,2024-10-30,2026-05-01,50000,Active
+CT-5024,C1015,Lucerne Publishing,EMEA,Machine Learning,0.125,2024-08-01,2026-08-01,50000,Active
+CT-5025,C1016,Fourth Coffee,AMER,Analytics,0.225,2025-01-12,2026-07-14,100000,Active
+CT-5026,C1016,Fourth Coffee,AMER,Storage,0.2,2025-05-10,2027-05-10,100000,Active
+CT-5027,C1016,Fourth Coffee,AMER,Storage,0.125,2024-06-06,2025-12-06,100000,Active
+CT-5028,C1017,Graphic Design Inst,APAC,Networking,0.225,2024-07-20,2026-07-20,1000000,Active
+CT-5029,C1018,Humongous Insurance,AMER,Compute,0.075,2025-03-07,2026-03-07,50000,Active
+CT-5030,C1019,Consolidated Freight,EMEA,Machine Learning,0.2,2024-09-18,2025-09-18,250000,Active
+CT-5031,C1019,Consolidated Freight,EMEA,Networking,0.15,2025-03-06,2027-03-06,1000000,Active
+CT-5032,C1019,Consolidated Freight,EMEA,Compute,0.1,2024-06-28,2026-06-28,100000,Expired
+CT-5033,C1020,VanArsdel Ltd,APAC,Storage,0.125,2024-03-16,2025-09-15,50000,Active
+CT-5034,C1020,VanArsdel Ltd,APAC,Networking,0.225,2024-03-11,2025-09-10,100000,Active
